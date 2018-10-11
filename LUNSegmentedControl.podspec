@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name     = 'LUNSegmentedControl'
   s.version  = '1.0.7'
-  s.platform = {:ios => '8.0'}
+  s.platform = :ios
   s.license  = {:type =>'MIT', :file =>'LICENSE'}
   s.summary  = 'Customizable segmented control with interaсtive animation. It provide liquid shape for selection.'
   s.homepage = 'https://github.com/LunApps/LUNSegmentedControl'
